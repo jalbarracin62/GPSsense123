@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPS sense</string>
+
+    <string name="dummy_button1">Activar app</string>
+    <string name="dummy_button2">Base de Datos</string>
+    <string name="dummy_content">Sensor\nGPS</string>
+    <string name="title_activity_activar">ActivarActivity</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_dashboard">Start</string>
+    <string name="title_notifications">Guardar</string>
+    <string name="title_activity_bdactivity">BDactivity</string>
+</resources>
